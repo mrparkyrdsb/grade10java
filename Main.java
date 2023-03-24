@@ -11,5 +11,8 @@ class Main {
         System.out.println("Current Outside Temperature: " + temp);
         System.out.println("Letter Grade: " + grade);
         System.out.println("Are they working?: " + working);
+
+        String user_input = System.console().readLine();
+        System.out.println(user_input);
     }
 }
