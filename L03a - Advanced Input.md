@@ -34,7 +34,7 @@ There are times when we need to have different data types inputted for our varia
 
 ```import java.util.Scanner;```
 
-> You must important the scanner tool at the top of your program.
+> You must import the scanner tool at the top of your program.
 
 ```Scanner in = new Scanner(System.in);```
 
