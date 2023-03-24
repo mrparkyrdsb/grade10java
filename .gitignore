@@ -1,0 +1,10 @@
+/.cache
+/.replit
+target/
+/.classpath
+/pom.xml
+/replit.nix
+/.upm
+.breakpoints
+.project.settings
+.settings/
