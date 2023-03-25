@@ -40,5 +40,8 @@ There are times when we need to have different data types inputted for our varia
 
 > You must create a scanner variable.
 
-## SOURCE
+## SOURCES
 - w3schools -- [https://www.w3schools.com/java/java_user_input.asp](https://www.w3schools.com/java/java_user_input.asp)
+
+## [Curiculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
+- __B2.3:__ write keyboard input and screen output statements that conform to program specifications

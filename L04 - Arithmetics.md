@@ -42,3 +42,7 @@ class Main {
     }
 }
 ```
+
+## [Curiculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
+- __B1.4:__ determine the expressions and instructions to use in a programming statement, taking into account the order of operations
+- __B2.2:__ use variables, expressions, and assignment statements to store and manipulate numbers and text in a program

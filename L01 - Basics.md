@@ -54,3 +54,7 @@ public static void main(String[] args) {
 3. Most lines in Java ends with a semicolon ```;```.
 4. Spelling matters: ```println vs. printn```
 5. The label after ```class``` should be the same as the file's name
+
+## [Curiculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
+- __B1.1:__ use correct terminology to describe programming concepts
+- __B3.1:__ write clear and maintainable code using proper programming standards

@@ -41,6 +41,9 @@ String user_input = System.console().readLine("Enter a value: ");
 
 Inside our ```.console().readLine()``` we can put a String data to output a special message for the person using our program.
 
-## SOURCE
+## SOURCES
 - geeksforgeeks -- [https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/](https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/)
 - ORACLE -- [https://docs.oracle.com/javase/7/docs/api/java/io/Console.html](https://docs.oracle.com/javase/7/docs/api/java/io/Console.html)
+
+## [Curiculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
+- __B2.3:__ write keyboard input and screen output statements that conform to program specifications

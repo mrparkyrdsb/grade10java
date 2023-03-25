@@ -74,5 +74,23 @@ All variables must have an explict datatype stated, given a label name, and assi
 | string    | depends on String object |
 | boolean   |  1 bit                   |
 
+## Constants
+> A constant variable is the one whose value is fixed and only one copy of it exists in the program. Once you declare a constant variable and assign value to it, you cannot change its value again throughout the program. (Tutorialspoint)
+
+Java does not support constants, but we can use two keywords: ```static``` and ```final``` to mimic such behaviour.
+
+- ```static``` variables are created at compile, only one copy of them is available.
+- ```final``` variables cannot be modifed after its creation
+
+_In basic programs we don't really have a need for these types of data._
+
+
 ## SOURCES
 - w3schools -- [https://www.w3schools.com/java/java_data_types.asp](https://www.w3schools.com/java/java_data_types.asp)
+- tutorialspoint -- [https://www.tutorialspoint.com/difference-between-constants-and-final-variables-in-java](https://www.tutorialspoint.com/difference-between-constants-and-final-variables-in-java)
+
+## [Curiculum Document Reference](https://www.edu.gov.on.ca/eng/curriculum/secondary/computer10to12_2008.pdf)
+- __B1.1:__ use correct terminology to describe programming concepts
+- __B1.2:__ describe the types of data that computers can process and store
+- __B1.3:__ explain the difference between constants and variables used in programming
+- __B3.1:__ write clear and maintainable code using proper programming standards
