@@ -1,5 +1,23 @@
 class Main {
     public static void main(String[] args) {
+        int age = 31;
+        float temp = -2.5f;
+        String name = "Mr. Park";
+        char grade = 'A';
+        boolean working = false;
+        double large_decimal = 12345.6789;
+
+        System.out.println("Age: " + age);
+        System.out.println("Current Outside Temperature: " + temp);
+        System.out.println("Name: " + name);
+        System.out.println("Letter Grade: " + grade);
+        System.out.println("Are they working?: " + working);
+        System.out.println("Large Decimal:" + large_decimal);
+    }
+}
+/*
+class Main {
+    public static void main(String[] args) {
         int x = 10;
         int y = 5;
         int z = 1;
@@ -24,4 +42,4 @@ class Main {
         z--;
         System.out.println("Z: " + z); // Z is now back to 1
     }
-}
+}*/

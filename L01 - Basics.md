@@ -37,8 +37,8 @@ System.out.println("Hello, World!");
 The code above is a way to output a text message to the program's console.
 
 #### Key Points for Programming Java.
-1. Capitalization Matters: ```System != system```
-2. Indentations Matter: It should be 4 spaces per indentation and it should be consistent for all indentations in your code.
+1. _Capitalization Matters:_ ```System != system```
+2. _Indentations Matter:_ It should be __4 spaces per indentation__ and it should be consistent for all indentations in your code.
 ```java
 // GOOD:
 public static void main(String[] args) {
@@ -53,3 +53,4 @@ public static void main(String[] args) {
 ```
 3. Most lines in Java ends with a semicolon ```;```.
 4. Spelling matters: ```println vs. printn```
+5. The label after ```class``` should be the same as the file's name
