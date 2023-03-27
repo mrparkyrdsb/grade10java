@@ -19,7 +19,7 @@ class Main {
     }
 }
 ```
-## The Five Data Types
+## The 6 Data Types
 In Java Programming, there are many datatypes we can work with. We will be analyzing 6 different datatypes.
 
 ### Integer : ```int```
